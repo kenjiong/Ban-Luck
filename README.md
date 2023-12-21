@@ -34,7 +34,7 @@ Ban Luck makes the game of Blackjack to be easily played amongst friends, and al
 
 ## Deployment
 The game is deployed on GitHub pages, and you can play the game here:
-https://kenjiong.github.io/ban-luck/
+[https://kenjiong.github.io/Ban-Luck/](https://kenjiong.github.io/Ban-Luck/)
 
 ## How to Play
 ### Start Screen
